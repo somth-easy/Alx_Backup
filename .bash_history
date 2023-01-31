@@ -253,3 +253,81 @@ git set-url
 git remote set-url origin git@github.com:somth-easy/alx-pre_course.git
 git push origin HEAD:master
 exit
+ls
+ls -a
+ls
+cd scratch_book_Directory
+git init
+ls
+git status
+ls -a
+rm -r .git
+git status
+cd ..
+touch .git
+git status
+ls -a
+rm .git
+ls -a
+mkdir .git
+git status
+ls -s
+ls -a
+rm -r .git
+ls
+cd /root
+ls
+git init
+ls -a
+git status
+cd ..
+git status
+ls
+cd /scratch_book_Directory
+git status
+git init
+git config --global user.name "somth-easy"
+git config --global user.email "somth_dope@yahoo.com"
+git branch
+git checkout
+git status
+git add .
+git status
+git commit -m "Backup for Scracth Directory"
+git log
+git remote add origin git@github.com:somth-easy/Alx_Backup_scratch_book_Dir.git
+git branch -M main
+git push -u origin main
+touch README.md
+echo "This is a backup for scratch_book_Directory">README.md
+git status
+git add *.md
+git status
+git commit -m "Added README file to repo"
+git push origin HEAD:master
+git show -a
+git branch
+git status
+cd ..
+cd /root
+git status
+git config --global user.name "somth-easy"
+git config --global user.email "somth_dope@yahoo.com"
+git remote add origin git@github.com:somth-easy/Alx_Backup.git
+git branch -M main
+git brach
+git branch -M main
+git add .
+git status
+git commit -m "Alx work Backup"
+git branch -M main
+git push -u origin main
+touch README.md
+echo "Back up for ALX">README.md
+git status
+git add *.md
+git commit -m "Added README"
+git push
+exit
+ssh 3dae1db936d5@3dae1db936d5.81399f07.alx-cod.online
+exit
